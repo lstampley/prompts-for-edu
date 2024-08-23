@@ -1,6 +1,6 @@
 # Prompts for Education: Enhancing Productivity & Learning
 
-## Test
+## Latoya Stampley
 
 ## About this Repository
 
